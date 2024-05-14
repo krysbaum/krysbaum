@@ -24,3 +24,9 @@
   📘 Learning languages<br>
   👾 Videogaming<br>
 </p>
+
+<div align=right>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/krysbaum.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/krysbaum?tab=followers)
+  
+  </div>
