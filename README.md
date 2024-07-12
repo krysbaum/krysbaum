@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<h3>Focuses</h3>
+* Searching for an Engineering role with a focus on Fintechs, Banking, Money Movement or Money Management
+* Daily coding practice
+* Thurs coding sessions on Secret Project! 
+
 <h3>Socials</h3>
 
 [![krys.baum](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic)](https://www.instagram.com/krys.baum/)
