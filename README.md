@@ -9,9 +9,9 @@
 </p>
 
 <h3>Focuses</h3>
-- Searching for an Engineering role with a focus on Fintechs, Banking, Money Movement or Money Management
-- Daily coding practice
-- Thurs coding sessions on Secret Project! 
+<li> Searching for an Engineering role with a focus on Fintechs, Banking, Money Movement or Money Management</li>
+<li>Daily coding practice</li>
+<li>Thurs coding sessions on Secret Project!</li>
 
 <h3>Socials</h3>
 
